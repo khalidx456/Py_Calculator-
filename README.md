@@ -43,4 +43,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalidx456&" alt="khalidx456" /></p>
 <input placeholder="Enter Email"></input>
 <input placeholder="Enter password"></input>
-<textarea>Enter Feedback</textarea>
+<button style="color : blue" >Submit</button>
