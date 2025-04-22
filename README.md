@@ -41,3 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalidx456&show_icons=true&locale=en" alt="khalidx456" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalidx456&" alt="khalidx456" /></p>
+<input placeholder="Enter Email"></input>
+<input placeholder="Enter password"></input>
+<textarea>Enter Feedback</textarea>
