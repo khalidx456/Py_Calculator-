@@ -21,7 +21,8 @@
 
 - 📫 How to reach me **mrkhalid37654@gmail.com**
 
-- 📄 Know about my experiences [I have No experience about python programming. But I will learn complete python programming after entrance exam of 11th AMU collage](I have No experience about python programming. But I will learn complete python programming after entrance exam of 11th AMU collage)
+- 📄 Know about my experiences
+ (I have No experience about python programming. But I will learn complete python programming after entrance exam of 11th AMU collage)
 
 - ⚡ Fun fact **According to me, we should always be happy. Happiness is very important to health ✨️**
 
