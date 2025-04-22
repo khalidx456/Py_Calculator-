@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khalid Saifullah</h1> 
+<h1 align="center"> Hi 👋, I'm Khalid Saifullah</h1> 
 <img src="Banner.png" alt="Banner.png" />
 <h3 align="center">A passionate frontend developer from India. I am from bihar</h3>
 <img src="img.png" alt="img.png" height="300px" width="230px" />
